@@ -55,14 +55,15 @@ h3 {
 }
 
 .image1 {
-  position: absolute;
-  right: 350px;
+   position: relative;
+left: 370px;
   top: 150px;
 }
 
 .image2 {
-  position: absolute;
-  left: 350px;
+    position: relative;
+  left: 0px;
+  bottom: 350px;
 }
 
 .skill-row {
